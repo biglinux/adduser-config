@@ -1,5 +1,5 @@
 Package: adduser-config
-Version: 1.0.0-1big2
+Version: 1.0.0-1big4
 Depends: adduser, policykit-desktop-privileges
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
