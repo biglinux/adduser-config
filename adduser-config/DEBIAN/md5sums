@@ -1,3 +1,4 @@
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
-f31876efb7622807e9db09894b6619b2  DEBIAN/control
+64a57b47e7adf7cfde70c8a3846bbd1f  DEBIAN/control
+e10d00333c1668b4f2055d9e69cccf6e  DEBIAN/postinst
 e0016416c8929ab6fc968c55510f0353  etc/adduser.conf

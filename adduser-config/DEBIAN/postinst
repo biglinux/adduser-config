@@ -3,6 +3,7 @@
 
 for i  in  $(ls /home); do
     adduser "$i" sambashare 2> /dev/null
+    adduser "$i" input 2> /dev/null
 done
 
 
