@@ -1,4 +1,5 @@
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
-64a57b47e7adf7cfde70c8a3846bbd1f  DEBIAN/control
-e10d00333c1668b4f2055d9e69cccf6e  DEBIAN/postinst
-e0016416c8929ab6fc968c55510f0353  etc/adduser.conf
+6e987afd8f5cb7352d4bcf875645e3d8  DEBIAN/postinst
+6fba32d973c17a493c15199163f9f06f  DEBIAN/control
+09630abc49642ddd7da39bf1afeeebe8  etc/adduser.conf
+441d6a0c9be8147cf5d343576df4c978  etc/udev/rules.d/61-steam-joystick.rules
